@@ -11,4 +11,4 @@ Sistem deteksi suhu tubuh otomatis adalah sistem yang dapat mendeteksi dan mengu
 
 ### Gambar sistem
 
-![gambar sistem](https://user-images.githubusercontent.com/101391849/220141197-88457388-dfd9-4c0c-bc40-9c81bec2dbf2.JPG)
+![gambar alat2](https://user-images.githubusercontent.com/101391849/220142048-1de13d54-faa2-4114-9dce-214cf5dd7117.jpg)
