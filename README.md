@@ -1,5 +1,5 @@
 # Deteksi-suhu-tubuh-otomatis
-Sistem deteksi suhu tubuh otomatis adalah sistem yang dapat mendeteksi dan mengukur suhu wajah manusia. Sistem terdiri dari kamera termal, kamera optik, Raspberry Pi, dan display. Sistem deteksi wajah menggunakan model machine learning yang dibuat dengan metode transfer learning. Model machine learning dibuat menggunakan Tensforflow 
+Sistem deteksi suhu tubuh otomatis adalah sistem yang dapat mendeteksi dan mengukur suhu wajah manusia. Sistem terdiri dari kamera termal, kamera optik, Raspberry Pi, dan display. Sistem deteksi wajah menggunakan model machine learning yang dibuat dengan metode transfer learning. Model machine learning dibuat menggunakan Tensorflow. 
 
 ### Gambar flowchart sistem
 
