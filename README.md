@@ -7,6 +7,8 @@ Sistem deteksi suhu tubuh otomatis adalah sistem yang dapat mendeteksi dan mengu
 
 ### Hasil deteksi wajah dan pengukuran suhu
 
+https://user-images.githubusercontent.com/101391849/220145795-7eb5686b-2468-4839-b173-2c770d9a1e3c.mp4
+
 ![Untitled-1](https://user-images.githubusercontent.com/101391849/220138173-618f651c-2076-4340-a4cf-01ec7c98a6b0.png)
 
 ### Gambar sistem
