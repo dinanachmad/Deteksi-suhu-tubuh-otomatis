@@ -3,9 +3,7 @@ Sistem deteksi suhu tubuh otomatis adalah sistem yang dapat mendeteksi wajah dan
 
 ### Gambar sistem
 
-<img src = "https://github.com/dinanachmad/Deteksi-suhu-tubuh-otomatis/assets/101391849/7db5d7a1-fd18-4c1d-93a3-44350d5f4e1a" width="150" height="280">
-
-![gambar alat2](https://user-images.githubusercontent.com/101391849/220142048-1de13d54-faa2-4114-9dce-214cf5dd7117.jpg)
+<img src = "https://github.com/dinanachmad/Deteksi-suhu-tubuh-otomatis/assets/101391849/7db5d7a1-fd18-4c1d-93a3-44350d5f4e1a">
 
 ### Flowchart sistem
 Cara kerja dari sistem ini adalah pertama, sistem membaca model machine learning yang telah dibuat. Selanjutnya, video real time ditampilkan pada LCD, monitor, atau komputer. Setelah video real time ditampilkan, sistem mulai mendeteksi wajah. Setelah ada wajah yang terdeteksi, proses selanjutnya adalah suhu tubuh diukur oleh sistem menggunakan thermal camera.
