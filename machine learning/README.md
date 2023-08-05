@@ -10,4 +10,5 @@ Nilai classification loss = 0,09.
 Nilai localization loss = 0,08. 
 Nilai regularization loss = 0,08. 
 Nilai total loss = 0,25
+
 <img src = "https://github.com/dinanachmad/Deteksi-suhu-tubuh-otomatis/assets/101391849/1dc2d604-e74c-45cc-ba4e-d95fbcdc5765">
