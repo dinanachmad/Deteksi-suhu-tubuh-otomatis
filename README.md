@@ -3,7 +3,7 @@ Sistem deteksi suhu tubuh otomatis adalah sistem yang dapat mendeteksi wajah dan
 
 ### Gambar sistem
 
-<img src = "https://user-images.githubusercontent.com/101391849/220142217-9b6c2325-2bee-4315-86ea-6b421f6637bd.jpg" width="150" height="280">
+<img src = "https://github.com/dinanachmad/Deteksi-suhu-tubuh-otomatis/assets/101391849/7db5d7a1-fd18-4c1d-93a3-44350d5f4e1a" width="150" height="280">
 
 ![gambar alat2](https://user-images.githubusercontent.com/101391849/220142048-1de13d54-faa2-4114-9dce-214cf5dd7117.jpg)
 
