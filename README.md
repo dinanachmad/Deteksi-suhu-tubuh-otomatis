@@ -12,9 +12,6 @@ Cara kerja dari sistem ini adalah pertama, sistem membaca model machine learning
 
 ![flowchart](https://user-images.githubusercontent.com/101391849/220113881-c8f1556d-b8f0-41dc-be71-dcc0861475a3.JPG)
 
-### Model machine learning
-
-
 ### Hasil deteksi wajah dan pengukuran suhu
 ![Untitled-1](https://user-images.githubusercontent.com/101391849/220138173-618f651c-2076-4340-a4cf-01ec7c98a6b0.png)
 
