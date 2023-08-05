@@ -11,12 +11,10 @@ tf.get_logger().setLevel('ERROR')
 PATH_TO_CFG = 'ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8/pipeline_custom.config'
 PATH_TO_CKPT = 'Model_Tensorflow_NumTrain=50000_320x320'
 
-# Load pipeline config and build a detection model
 configs = config_util.get_configs_from_pipeline_file(PATH_TO_CFG)
 model_config = configs['model']
 detection_model = model_builder.build(model_config=model_config, is_training=False)
 
-# Restore checkpoint
 ckpt = tf.compat.v2.train.Checkpoint(model=detection_model)
 ckpt.restore(os.path.join(PATH_TO_CKPT, 'ckpt-51')).expect_partial()
 
@@ -36,10 +34,8 @@ category_index = label_map_util.create_category_index_from_labelmap(PATH_TO_LABE
 cap = cv2.VideoCapture(0)
 
 while True:
-    # Read frame from camera
     ret, image_np = cap.read()
 
-    # Expand dimensions since the model expects images to have shape: [1, None, None, 3]
     image_np_expanded = np.expand_dims(image_np, axis=0)
 
     # Things to try:
@@ -67,7 +63,6 @@ while True:
           min_score_thresh=.30,
           agnostic_mode=False)
 
-    # Display output
     cv2.imshow('object detection', image_np_with_detections)
 
     if cv2.waitKey(25) & 0xFF == ord('q'):
